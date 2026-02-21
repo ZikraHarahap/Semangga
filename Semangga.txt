@@ -1,0 +1,4 @@
+Resolusi ZIK
+- Konsisten nge coding 3x seminggu
+- Belajar git dan github
+- Belajar pakai metode baru seperti spaced repetition dan active recall
